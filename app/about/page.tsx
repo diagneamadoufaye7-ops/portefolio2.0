@@ -204,10 +204,7 @@ export default function AboutPage() {
       <section className="mb-16">
         <SectionTitle title="Centres d'intérêt" align="left" />
         <div className="flex flex-wrap gap-4">
-          {intere          cd portfolio
-          git init
-          git add .
-          git commit -m "Initial commit: Portfolio Next.js avec CV intégré"sts.map((i) => (
+          {interests.map((i) => (
             <span
               key={i}
               className="text-xs px-3 py-1 rounded-full bg-white/5 border border-white/10 text-gray-300"
