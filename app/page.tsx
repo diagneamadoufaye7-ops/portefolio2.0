@@ -92,8 +92,9 @@ export default function HomePage() {
               transition={{ duration: 0.5, delay: 0.3 }}
               className="text-gray-400 text-lg leading-relaxed mb-8 max-w-2xl"
             >
-              Spécialisé en bases de données, cloud AWS et intelligence artificielle.
-              Je transforme des données complexes en solutions concrètes et mesurables.
+              Spécialisé dans la gestion et l’exploitation des données, 
+              j’aide les entreprises à extraire des informations utiles et 
+              à optimiser leurs bases afin de prendre des décisions fondées sur la données.
               Basé à {personalInfo.location}.
             </motion.p>
 
