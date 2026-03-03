@@ -81,7 +81,7 @@ export default function HomePage() {
               className="text-xl sm:text-2xl font-semibold mb-6"
             >
               <span className="bg-gradient-to-r from-blue-400 via-violet-400 to-cyan-400 bg-clip-text text-transparent">
-                Data Analyst · DBA · Cloud Engineer
+                Data Analyst · DBA 
               </span>
             </motion.p>
 
